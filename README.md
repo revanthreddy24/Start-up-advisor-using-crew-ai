@@ -201,11 +201,11 @@ For issues and questions:
 
 If you use this project in your research or work, please cite:
 ```
-[Your Name]. (2024). AI-Powered Startup Idea Validation System. 
-GitHub repository: [repository-url]
+Revanth Reddy kanubaddi. (2025). AI-Powered Startup Idea Validation System. 
+GitHub repository: https://github.com/revanthreddy24/Start-up-advisor-using-crew-ai
 ```
 
 ---
 
 **Version**: 1.0.0  
-**Last Updated**: December 2024
+**Last Updated**: December 2025
